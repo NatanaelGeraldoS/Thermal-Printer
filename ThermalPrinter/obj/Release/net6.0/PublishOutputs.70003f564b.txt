@@ -1,0 +1,10 @@
+D:\Natanael\Export Thermal Printer\ThermalPrinter.exe
+D:\Natanael\Export Thermal Printer\ThermalPrinter.dll
+D:\Natanael\Export Thermal Printer\ThermalPrinter.deps.json
+D:\Natanael\Export Thermal Printer\ThermalPrinter.runtimeconfig.json
+D:\Natanael\Export Thermal Printer\ThermalPrinter.pdb
+D:\Natanael\Export Thermal Printer\Microsoft.Win32.SystemEvents.dll
+D:\Natanael\Export Thermal Printer\System.Drawing.Common.dll
+D:\Natanael\Export Thermal Printer\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Natanael\Export Thermal Printer\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Natanael\Export Thermal Printer\runtimes\win\lib\net6.0\System.Drawing.Common.dll
